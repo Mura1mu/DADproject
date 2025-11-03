@@ -4,7 +4,7 @@ A Django project for the DAD assignment.
 
 # Group Members
 - Hellen Muraimu
-- <add Your names here>
+- Lysa Munjogu
 
 ## Setup Instructions (Mac)
 ```bash
